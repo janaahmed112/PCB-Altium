@@ -13,3 +13,8 @@
 <img width="300" height="310" alt="Screenshot 2026-09-09 025252" src="https://github.com/user-attachments/assets/d7ee4975-edad-4d8c-845d-d600d98bcdc5" />
 
 
+
+
+
+link of the used libraries:
+      https://github.com/VenoIoT/AltiumDesigner-Libraries-main
